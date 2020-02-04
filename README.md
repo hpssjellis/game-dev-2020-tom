@@ -10,7 +10,7 @@ https://hpssjellis.github.io/game-dev-2020-tom/public/
 
 B. Josh    fix https://github.com/JB173/Game-Development-11-Josh
 
-B. Alex
+B. Alex   https://alexanderobst.github.io/Gamedev2020-Alex/public/index.html
 
 B. Tyson
 
@@ -28,9 +28,9 @@ H. Nicholas
 
 H-A.J.
 
-J Michael  only to github
+J Michael  https://jelly-bin.github.io/gamedevel/public/
 
-L.Leo
+L.Lee   https://leo-lee2002.github.io/Game-Dev-2020-Leo/public/
 
 L. Thomas  link to onenote
 
@@ -56,7 +56,8 @@ W. Matthew
 
 W.Dale    https://dalew9696.github.io/GameDev-2020-Dale/Public/
 
-W.Pablo
+W. Pablo    https://programmingpablo.github.io/game-dev-2020-pablo/public/
+
 
 
 
