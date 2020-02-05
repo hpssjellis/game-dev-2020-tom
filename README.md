@@ -18,7 +18,7 @@ C. Harry
 
 C. Tristyn check  https://tristyn19.github.io/Game-Dev-2020-Tristyn/public/
 
-D. Isabella  mark on computer
+D. Isabella  https://fred234345.github.io/game-dev-fred-2020/public/
 
 E. Tristan   https://torch360.github.io/gamedev-tristan-2020/public/
 
