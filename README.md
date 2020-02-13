@@ -53,7 +53,7 @@ S.Nathan     https://nathan2403.github.io/Game-Dev-2020-Nathan/public/
 
 T.Logan   https://agoogol.github.io/gameDev2-logan/Public/
 
-W.Aaden   https://github.com/Aaden-Webster/game-dev-2020-aaden
+W.Aaden   https://aaden-webster.github.io/game-dev-2020-aaden/Public/
 
 
 W. Matthew    https://mattiboi.github.io/Game-Dev-2020-Matt/public/
