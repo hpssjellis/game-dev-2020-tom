@@ -31,7 +31,7 @@ H-A.J.   https://ajhawkins2632.github.io/game-dev-2020-aj/public/
 
 J Michael  https://jelly-bin.github.io/gamedevel/public/
 
-L.Lee   https://leo-lee2002.github.io/Game-Dev-2020-Leo/public/
+L.Leo   https://leo-lee2002.github.io/Game-Dev-2020-Leo/public/
 
 
 M. Liam   https://nouozd.github.io/game-dev-2020-liam.m/public/
