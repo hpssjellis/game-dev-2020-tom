@@ -14,7 +14,6 @@ B. Alex   https://alexanderobst.github.io/Gamedev2020-Alex/public/index.html
 
 B. Tyson   https://grognak44.github.io/gamedev-12-2020-Tyson.b/public/
 
-C. Harry  
 
 C. Tristyn check  https://tristyn19.github.io/Game-Dev-2020-Tristyn/public/
 
@@ -56,12 +55,11 @@ T.Logan   https://agoogol.github.io/gameDev2-logan/Public/
 W.Aaden   https://aaden-webster.github.io/game-dev-2020-aaden/Public/
 
 
-W. Matthew    https://mattiboi.github.io/Game-Dev-2020-Matt/public/
+
 
 
 W.Dale    https://dalew9696.github.io/GameDev-2020-Dale/Public/
 
-W. Pablo    https://programmingpablo.github.io/game-dev-2020-pablo/public/
 
 
 
