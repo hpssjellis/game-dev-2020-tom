@@ -36,7 +36,7 @@ L.Leo   https://leo-lee2002.github.io/Game-Dev-2020-Leo/public/
 
 M. Liam   https://nouozd.github.io/game-dev-2020-liam.m/public/
 
-M. Jo     https://j0rd4nm.github.io/game-dev-jo-2020/public/
+M. Jo     https://j0rd4nm.github.io/game-dev-jo-2020/public/index.html
 
 
 R. Christian    https://christian-reid.github.io/Christian-Reid-Game-Dev-2020-Christian/Public/
