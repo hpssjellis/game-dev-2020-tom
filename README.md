@@ -43,7 +43,7 @@ R. Christian    https://christian-reid.github.io/Christian-Reid-Game-Dev-2020-Ch
 
 B. Ryder    https://bremjr.github.io/gamedev-ryder-2020/public/
 
-R. Thor   https://unlostmaniac.github.io/FGame-Dev/Public/
+R. Thor   https://unlostmaniac.github.io/FGame-Dev/public/
 
 S. Sam    https://samsimpso.github.io/Game-Dev-2020-sams/public/
 
