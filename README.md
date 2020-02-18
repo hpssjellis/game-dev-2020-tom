@@ -52,7 +52,7 @@ S.Nathan     https://nathan2403.github.io/Game-Dev-2020-Nathan/public/
 
 T.Logan   https://agoogol.github.io/gameDev2-logan/Public/
 
-W.Aaden   https://aaden-webster.github.io/game-dev-2020-aaden/Public/
+W.Aaden   https://aaden-webster.github.io/game-dev-2020-aaden/public/
 
 
 
