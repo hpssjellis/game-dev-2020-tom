@@ -12,8 +12,6 @@ https://hpssjellis.github.io/game-dev-2020-tom/public/
 
 B. Josh    https://jb173.github.io/Game-Development-11-Josh/public/
 
-B. Alex   https://alexanderobst.github.io/Gamedev2020-Alex/public/index.html
-
 C. Tristyn check  https://tristyn19.github.io/Game-Dev-2020-Tristyn/public/
 
 D. Isabella  https://fred234345.github.io/game-dev-fred-2020/public/
