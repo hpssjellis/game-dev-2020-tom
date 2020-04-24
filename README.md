@@ -14,7 +14,7 @@ B. Josh    https://jb173.github.io/Game-Development-11-Josh/public/
 
 C. Tristyn check  https://tristyn19.github.io/Game-Dev-2020-Tristyn/public/
 
-D. Isabella  https://fred234345.github.io/game-dev-fred-2020/public/
+D. Isabella https://chocobgal.github.io/coding-11/    
 
 H-A.J.   https://ajhawkins2632.github.io/game-dev-2020-aj/public/
 
@@ -139,7 +139,7 @@ W.Aaden   https://aaden-webster.github.io/game-dev-2020-aaden/public/
 W.Dale    https://dalew9696.github.io/GameDev-2020-Dale/Public/
 
 
-
+Isabellas old site https://fred234345.github.io/game-dev-fred-2020/public/
 
 
 
